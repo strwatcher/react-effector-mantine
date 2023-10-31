@@ -1,4 +1,4 @@
-session_name: web-atom
+session_name: tma
 windows:
   - window_name: editor
     shell_command_before: nvim
